@@ -27,7 +27,3 @@ The system is designed as a learning resource for Database Design, SQL Queries, 
 ## License
 This project is for educational purposes only.  
 MIT License (Commercial use is NOT allowed)
-
-5. Run the server
-  ``npm run dev``
-  
